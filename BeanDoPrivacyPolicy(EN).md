@@ -1,7 +1,9 @@
 BeanDo Privacy Policy
-Last Updated: 2026
+
+Last Updated: 2024
 
 Introduction
+
 BeanDo (referred to as "we", "us", or "the Developer") takes your privacy very seriously. This Privacy Policy explains how we collect, use, store, and share your personal information, as well as the rights you have. Please read it carefully.
 
 This Privacy Policy applies to users worldwide. We provide privacy protections that comply with applicable local laws in different regions.
