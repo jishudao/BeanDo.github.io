@@ -14,7 +14,7 @@ BeanDo 是一款提醒事项管理应用，提供基础功能和高级订阅功�
 基本的任务组织功能
 
 1.2 高级订阅功能（BeanDo Pro）
-重复提醒：支持多种重复模式（每天、每周、每月、工作日等）
+重复提醒：支持多种重复提醒（每天、每周、每月、工作日等所有重复提醒选项）
 
 子任务管理：为提醒事项添加子任务清单
 
@@ -120,9 +120,9 @@ BeanDo 使用 Apple 的 StoreKit 和 iCloud 服务。使用这些服务时，您
 如果您对这些服务条款有任何疑问，请通过以下方式联系我们：
 
 
-电子邮件：yangcongpro@gmail.com（请替换为您的实际邮箱）
+电子邮件：yangcongpro@gmail.com
 
-X（原 Twitter）：@yangcong_pro（可选）
+X（原 Twitter）：@yangcong_pro
 
 13. 其他条款
 13.1 完整协议
