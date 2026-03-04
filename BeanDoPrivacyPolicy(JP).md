@@ -1,168 +1,167 @@
-BeanDo プライバシーポリシー
+# BeanDo Privacy Policy
 
-最終更新日：2026年
+**Last Updated**: February 21, 2026
 
-はじめに
+---
 
-BeanDo（以下「当社」または「開発者」といいます）は、ユーザーのプライバシーを非常に重視しています。本プライバシーポリシーは、当社がお客様の個人情報をどのように収集、使用、保存、共有するか、およびお客様が有する権利について説明します。よくお読みください。
+## Introduction
 
-本プライバシーポリシーは全世界のユーザーに適用されます。当社は地域ごとの法律要件に従い、現地法に準拠したプライバシー保護を提供します。
+BeanDo (hereinafter referred to as "we" or "the developer") takes user privacy protection very seriously. This Privacy Policy explains how we collect, use, store, and share your personal information, as well as the rights you have. Please read carefully.
 
-1. データの保存とプライバシー
-1.1 データの保存
-ローカル保存：お客様のリマインダー、タグ、および個人設定はすべてお客様のデバイスにローカル保存され、AppleのCore Data技術によって管理されます。
+---
 
-iCloudバックアップ：iCloudバックアップを有効にした場合、お客様のデータはお客様個人のiCloudアカウントにバックアップされます。この機能はデータのバックアップとデバイス間の同期のみを目的とします。
+## 1. Data Storage and Privacy
 
-開発者のアクセス制限：当社はお客様のデータ（リマインダーの内容、タグ情報、個人設定を含む）にアクセスできません。すべてのデータはお客様のデバイスおよびお客様個人のiCloudアカウントにのみ存在します。
+### 1. Data Storage
 
-1.2 データ収集に関する説明
-個人データの不収集：当社はお客様の個人データを積極的に収集、保存、分析することはありません。
+**Local Storage**
+- All your reminders, tags, and personalized settings are stored locally on your device
+- Managed using Apple's Core Data technology
 
-デバイス情報の不収集：デバイスの機種、OSバージョン、デバイス識別子を収集することはありません。
+**iCloud Backup**
+- If you choose to enable iCloud backup, your data will be backed up to your personal iCloud account
+- This feature is only used for data backup and cross-device synchronization
 
-利用統計の不収集：アプリの利用頻度や機能の使用状況を収集することはありません。
+**Developer Access Restrictions**
+- We cannot access any of your data, including reminder content, tag information, and personalized settings
+- All data exists only on your device and in your personal iCloud account
 
-クラッシュログの不アップロード：ユーザーのプライバシーを尊重し、アプリ内にクラッシュレポート機能を組み込んでいないため、クラッシュログや診断情報を自動的にアップロードすることはありません。
+### 2. Data Collection Statement
 
-2. 情報の利用
-当社はお客様のデータを、お客様のデバイス上でのみ以下の目的で使用します。
+We commit to:
 
-中核機能の提供
+-  **No Personal Data Collection**: We do not actively collect, store, or analyze any of your personal data
+-  **No Device Information Collection**: We do not collect your device model, operating system version, or device identifiers
+-  **No Usage Data Statistics**: We do not collect your app usage frequency or feature usage
+-  **No Crash Log Uploads**: Out of respect for user privacy, we have not integrated crash reporting features, so no crash logs or diagnostic information are automatically uploaded
 
-リマインダーの保存と管理
+---
 
-設定されたリマインダー期限にローカル通知を送信
+## 2. Use of Information
 
-パーソナライゼーション
+We only use your data locally on your device for the following purposes:
 
-設定を保存し、一貫した体験を提供
+### 1. Providing Core Features
+- Store and manage your reminders
+- Send local notifications when reminder times expire
 
-お客様の設定に応じてアプリのインターフェースを表示
+### 2. Personalized Services
+- Save your settings to provide a consistent user experience
+- Display the app interface according to your preferences
 
-3. 情報の共有
-当社はお客様の情報を第三者と共有しません。その理由は以下のとおりです。
+---
 
-データを収集しない：共有可能なユーザーデータを一切収集しません。
+## 3. Information Sharing
 
-ローカル処理：すべてのデータ処理はお客様のデバイス上で行われます。
+**We do not share your information with third parties** for the following reasons:
 
-iCloudプライバシー：iCloudバックアップを使用する場合、データはお客様個人のiCloudアカウントにのみバックアップされ、AppleのiCloudプライバシーポリシーに従います。
+- **No Data Collection**: We do not collect any user data that could be shared
+- **Local Processing**: All data processing is completed locally on your device
+- **iCloud Privacy**: If you use iCloud backup, data is only backed up to your personal iCloud account, following Apple's iCloud Privacy Policy
 
-当社はお客様の個人情報を第三者に販売、貸与、共有することはなく、広告やマーケティング目的で使用することもありません。
+We will not sell, rent, or share your personal information with third parties, nor will we use your information for advertising or marketing purposes.
 
-4. データセキュリティ
-当社は以下の方法でお客様のデータを保護します。
+---
 
-ローカルデータの安全性：すべてのデータはデバイスにローカル保存され、iOSのシステムセキュリティ機構によって保護されます。
+## 4. Data Security
 
-iCloudの転送および保存時の暗号化：iCloudバックアップを有効にすると、データは転送中および保存中にAppleによって暗号化されます。詳細はAppleのプライバシーポリシーをご参照ください。
+We protect your data through the following methods:
 
-バックアップ機構：iCloudバックアップを有効にすると、データは自動的にお客様個人のiCloudアカウントにバックアップされ、データ損失を防ぎます。
+- **Local Data Security**: All data is stored locally on your device, protected by iOS system security mechanisms
+- **iCloud Transmission and Storage Encryption**: When you enable iCloud backup, data is encrypted by Apple during transmission and storage. You can review [Apple's Privacy Policy](https://www.apple.com/legal/privacy/) for details
+- **Backup Mechanism**: When you enable iCloud backup, your data is automatically backed up to your personal account through iCloud to prevent data loss
 
-5. お客様のデータに関する権利
-地域の法律に応じて、お客様は個人データに関して以下の権利を有する場合があります。当社は個人データを収集しないため、一部の権利の行使は実際には該当しない可能性がありますが、法的要件を満たすためにここに列挙します。
+---
 
-権利	説明
-アクセス権	当社が保有するお客様の個人データ（存在する場合）にアクセスする権利
-訂正権	不正確または不完全な個人データ（存在する場合）を訂正する権利
-削除権	個人データ（存在する場合）の削除を請求する権利
-処理制限権	個人データ（存在する場合）の処理制限を請求する権利
-データポータビリティ権	構造化され、一般的に使用され、機械可読な形式で個人データ（存在する場合）を受け取る権利
-異議権	当社による個人データ（存在する場合）の処理に異議を唱える権利
-同意撤回権	以前に個人データの処理に同意した場合、いつでも同意を撤回する権利
-苦情申立権	当社の個人データ取扱いについて監督機関に苦情を申し立てる権利
-特記事項：BeanDoは個人データを一切収集しないため、上記の権利（苦情申立権を除く）の行使は実際には該当するデータが存在しません。ご質問がある場合は、お気軽にお問い合わせください。
+## 5. Your Data Rights
 
-6. 地域別補足
-中国本土
-中華人民共和国個人情報保護法に基づき、当社は以下を約束します。
+Under U.S. state privacy laws (such as California CCPA/CPRA, Virginia VCDPA, etc.), you have the following rights:
 
-法令を厳守し、ユーザーの個人情報を保護します。
+| Right | Description |
+|-------|-------------|
+| **Right to Know** | You have the right to know what personal information we collect about you |
+| **Right to Access** | You have the right to access the personal information we hold about you |
+| **Right to Delete** | You have the right to request deletion of your personal information |
+| **Right to Correct** | You have the right to correct inaccurate personal information |
+| **Right to Opt-Out** | You have the right to opt out of the sale or sharing of your personal information |
+| **Right to Limit** | You have the right to limit the use of your sensitive personal information |
+| **Right to Non-Discrimination** | You have the right not to be discriminated against for exercising your privacy rights |
 
-お客様のデータのすべての処理（保存、管理、同期を含む）はお客様のデバイス上でローカルに行われます。iCloudバックアップを有効にした場合、関連データはAppleのiCloudサービスを介して暗号化され、お客様の個人デバイス間でバックアップされます。当社（開発者）はお客様のデバイスまたはお客様個人のiCloudアカウントに保存されたデータにアクセスできません。
+**Special Note**: Since BeanDo does not collect any personal data, the exercise of the above rights (except the right to non-discrimination) does not involve specific data in practice. If you have any questions, please feel free to contact us.
 
-米国
-米国各州のプライバシー法（カリフォルニア州CCPA/CPRA、バージニア州VCDPAなど）に基づき、当社は以下を約束します。
+---
 
-ユーザーの個人情報を販売しません。
+## 6. United States Regional Specific Information
 
-州を越えたデータ移転を行いません。
+Under U.S. state privacy laws (including California CCPA/CPRA, Virginia VCDPA, Colorado CPA, Connecticut CTDPA, and Utah UCPA), we specifically state:
 
-ユーザーのプライバシーに関する選択を尊重します。
+### Data Processing Methods
+- All processing of your data (including storage, management, and synchronization) is performed locally on your device
+- When you enable iCloud backup, related data is encrypted and backed up between your personal devices through Apple's iCloud service
+- We (the developer) cannot access any data stored on your device or in your personal iCloud account
 
-お客様のデータのすべての処理はお客様のデバイス上でローカルに行われます。iCloudバックアップはオプションの機能です。
+### Compliance Commitments
+- **No Sale of Personal Information**: We do not sell your personal information
+- **No Cross-State Data Transfer**: We do not transfer your data across state lines
+- **No Targeted Advertising**: We do not use your data for targeted advertising
+- **Respect for Privacy Choices**: We respect your privacy choices and rights
 
-EEAおよび英国
-一般データ保護規則（GDPR）に基づき、当社は以下を約束します。
+### California Residents
+Under the California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA):
+- We do not collect personal information
+- We do not sell or share personal information
+- We do not use sensitive personal information
 
-お客様のデータのすべての処理はお客様のデバイス上でローカルに行われます。iCloudバックアップを有効にした場合、関連データはAppleのiCloudサービスを介して暗号化され、お客様の個人デバイス間でバックアップされます。当社はお客様のデバイスまたはお客様個人のiCloudアカウントに保存されたデータにアクセスできません。
+---
 
-ユーザーのプライバシー権利を尊重します。
+## 7. Permission Usage Instructions
 
-日本
-個人情報の保護に関する法律（APPI）に基づき、当社は以下を約束します。
+### 1. Notification Permission
+- **Purpose**: Send reminder notifications to ensure you receive important reminders in a timely manner
+- **Usage Scenario**: Send local push notifications when your set reminder items expire
+- **Control Method**: You can turn off notification permission at any time in your device's "Settings"
 
-お客様のデータのすべての処理はお客様のデバイス上でローカルに行われます。iCloudバックアップを有効にした場合、関連データはAppleのiCloudサービスを介して暗号化され、お客様の個人デバイス間でバックアップされます。当社はお客様のデバイスまたはお客様個人のiCloudアカウントに保存されたデータにアクセスできません。
+### 2. Calendar Permission
+- **Purpose**: Identify Chinese legal holidays and adjusted work schedules for the "Workday Reminder" feature
+- **Usage Scenario**: When you create recurring reminders and select "Workdays Only", the app reads holiday information from the system calendar to accurately skip holidays and include makeup workdays
+- **Control Method**: You can turn off calendar permission at any time in your device's "Settings". After turning it off, the "Workday Reminder" feature will not be able to accurately identify holidays
 
-ユーザーのプライバシーを厳格に保護します。
+### 3. iCloud Backup Permission
+- **Purpose**: Back up your reminder data and app settings to enable cross-device synchronization and data recovery
+- **Usage Scenario**: When you use BeanDo on multiple Apple devices, data is automatically synchronized through iCloud
+- **Control Method**: You can turn off iCloud backup at any time in the app's settings
 
-韓国
-個人情報保護法（PIPA）に基づき、当社は以下を約束します。
+### 4. Microphone Permission
+- **Purpose**: Used for voice input feature to help you quickly create reminders through voice
+- **Usage Scenario**: When you use the voice input feature, temporarily record your voice for recognition
+- **Control Method**: You can turn off microphone permission at any time in your device's "Settings"
+- **Data Note**: Voice data is only used for current recognition and will not be stored or uploaded
 
-お客様のデータのすべての処理はお客様のデバイス上でローカルに行われます。iCloudバックアップを有効にした場合、関連データはAppleのiCloudサービスを介して暗号化され、お客様の個人デバイス間でバックアップされます。当社はお客様のデバイスまたはお客様個人のiCloudアカウントに保存されたデータにアクセスできません。
+### 5. Speech Recognition Permission
+- **Purpose**: Convert your voice to text for creating reminder items
+- **Usage Scenario**: When you use the voice input feature, recognize your voice content and convert it to text
+- **Control Method**: You can turn off speech recognition permission at any time in your device's "Settings"
+- **Technical Note**: Uses Apple's Speech Recognition API (SFSpeechRecognizer) for voice recognition. All voice processing is completed on-device by the iOS system (or through Apple's secure servers). We do not upload, store, or access your original voice data
 
-ユーザーのプライバシーを厳格に保護します。
+---
 
-7. 権限
-7.1 通知
-目的：リマインダー通知を送信し、重要なリマインダーを確実に受け取れるようにします。
+## 8. Privacy Policy Updates
 
-使用場面：設定されたリマインダーが期限を迎えたとき、ローカルプッシュ通知を送信します。
+We may update this Privacy Policy from time to time. When we update it, we will notify you in the App Store version update notes and update the effective date at the beginning of the policy.
 
-制御方法：デバイスの「設定」からいつでも通知権限をオフにできます。
+We recommend that you regularly review this Privacy Policy to understand our privacy protection practices.
 
-7.2 カレンダー
-目的：中国の祝日および振替出勤日を識別し、「平日のみ」のリマインダー機能に使用します。
+---
 
-使用場面：繰り返しリマインダーを作成し「平日のみ」を選択した場合、アプリはシステムカレンダーから祝日情報を読み取り、祝日を正しくスキップし振替出勤日を含めます。
+## 9. Contact Us
 
-制御方法：デバイスの「設定」からいつでもカレンダー権限をオフにできます。オフにすると「平日のみ」機能は祝日を正確に認識できなくなります。
+If you have any questions or suggestions about this Privacy Policy, or wish to exercise your data rights, please contact us through the following methods:
 
-7.3 iCloudバックアップ
-目的：リマインダーデータとアプリ設定をバックアップし、デバイス間の同期とデータ復元を可能にします。
+- **Email**: yangcongpro@gmail.com
+- **X (formerly Twitter)**: @yangcong_pro
 
-使用場面：複数のAppleデバイスでBeanDoを使用する場合、データはiCloudを介して自動同期されます。
+For app features, usage questions, or bug reports, please contact us through the same methods or leave feedback directly in the App Store.
 
-制御方法：アプリの設定からいつでもiCloudバックアップをオフにできます。
+---
 
-7.4 マイク
-目的：音声入力を可能にし、音声でリマインダーをすばやく作成できるようにします。
-
-使用場面：音声入力機能を使用する際、音声が一時的に録音され認識に使用されます。
-
-制御方法：デバイスの「設定」からいつでもマイク権限をオフにできます。
-
-データに関する注記：音声データはその場の認識にのみ使用され、保存またはアップロードされることはありません。
-
-7.5 音声認識
-目的：音声をテキストに変換し、リマインダーを作成します。
-
-使用場面：音声入力機能を使用する際、音声が認識されテキストに変換されます。
-
-制御方法：デバイスの「設定」からいつでも音声認識権限をオフにできます。
-
-技術注記：この機能はAppleのSpeech Recognition API（SFSpeechRecognizer）を使用します。音声処理はすべてiOSによってデバイス上またはAppleのセキュアサーバーを介して実行されます。当社はお客様の音声データをアップロード、保存、またはアクセスすることはありません。
-
-8. プライバシーポリシーの変更
-当社は本プライバシーポリシーを随時更新することがあります。更新時には、App Storeのアプリ更新ノートにその旨を記載し、本ポリシーの冒頭の「最終更新日」を更新します。最新のプライバシー保護慣行を把握するため、定期的に本プライバシーポリシーをご確認いただくことをお勧めします。
-
-9. お問い合わせ
-本プライバシーポリシーに関するご質問やご提案、またはデータに関する権利を行使されたい場合は、以下の連絡先までお願いいたします。
-
-メール：yangcongpro@gmail.com
-
-X（旧Twitter）：@yangcong_pro
-
-アプリの機能、使用方法、バグ報告に関するお問い合わせも、同じ連絡先、またはApp Storeでのレビューにてお受けしております。
-
+**Thank you for trusting and using BeanDo!**
