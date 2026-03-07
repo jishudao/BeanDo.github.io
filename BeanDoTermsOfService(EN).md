@@ -1,4 +1,4 @@
-# BeanDo Terms of Service
+# BeanDo Terms of Service(EULA)
 
 **Last Updated**: February 21, 2026
 
