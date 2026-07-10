@@ -1,167 +1,176 @@
-# BeanDo Privacy Policy
+# BeanDo プライバシーポリシー
 
-**Last Updated**: February 21, 2026
-
----
-
-## Introduction
-
-BeanDo (hereinafter referred to as "we" or "the developer") takes user privacy protection very seriously. This Privacy Policy explains how we collect, use, store, and share your personal information, as well as the rights you have. Please read carefully.
+**最終更新日**：2026年7月10日
 
 ---
 
-## 1. Data Storage and Privacy
+## はじめに
 
-### 1. Data Storage
-
-**Local Storage**
-- All your reminders, tags, and personalized settings are stored locally on your device
-- Managed using Apple's Core Data technology
-
-**iCloud Backup**
-- If you choose to enable iCloud backup, your data will be backed up to your personal iCloud account
-- This feature is only used for data backup and cross-device synchronization
-
-**Developer Access Restrictions**
-- We cannot access any of your data, including reminder content, tag information, and personalized settings
-- All data exists only on your device and in your personal iCloud account
-
-### 2. Data Collection Statement
-
-We commit to:
-
--  **No Personal Data Collection**: We do not actively collect, store, or analyze any of your personal data
--  **No Device Information Collection**: We do not collect your device model, operating system version, or device identifiers
--  **No Usage Data Statistics**: We do not collect your app usage frequency or feature usage
--  **No Crash Log Uploads**: Out of respect for user privacy, we have not integrated crash reporting features, so no crash logs or diagnostic information are automatically uploaded
+BeanDo（以下、「当アプリ」または「開発者」）は、ユーザーのプライバシー保護を非常に重視しています。本プライバシーポリシーは、当アプリがユーザーの個人情報をどのように収集、使用、保存、共有するか、およびユーザーが有する権利について説明するものです。ご利用前に必ずお読みください。
 
 ---
 
-## 2. Use of Information
+## 1. データの保存とプライバシー
 
-We only use your data locally on your device for the following purposes:
+### 1. データの保存
 
-### 1. Providing Core Features
-- Store and manage your reminders
-- Send local notifications when reminder times expire
+**ローカル保存**
+- ユーザーのすべてのリマインダー、タグ、個人設定はデバイスのローカルに保存されます。
+- AppleのCore Data技術を使用して管理されています。
 
-### 2. Personalized Services
-- Save your settings to provide a consistent user experience
-- Display the app interface according to your preferences
+**iCloud バックアップ**
+- iCloudバックアップを有効にしている場合、データはユーザー個人のiCloudアカウントにバックアップされます。
+- この機能は、データのバックアップおよび複数デバイス間の同期のみに使用されます。
 
----
+**開発者のアクセス制限**
+- 開発者は、リマインダーの内容、タグ情報、個人設定を含むユーザーのいかなるデータにもアクセスできません。
+- すべてのデータは、ユーザーのデバイス内および個人のiCloudアカウント内のみに存在します。
 
-## 3. Information Sharing
+### 2. データ収集に関する説明
 
-**We do not share your information with third parties** for the following reasons:
+当アプリは以下の事項を遵守します：
 
-- **No Data Collection**: We do not collect any user data that could be shared
-- **Local Processing**: All data processing is completed locally on your device
-- **iCloud Privacy**: If you use iCloud backup, data is only backed up to your personal iCloud account, following Apple's iCloud Privacy Policy
-
-We will not sell, rent, or share your personal information with third parties, nor will we use your information for advertising or marketing purposes.
-
----
-
-## 4. Data Security
-
-We protect your data through the following methods:
-
-- **Local Data Security**: All data is stored locally on your device, protected by iOS system security mechanisms
-- **iCloud Transmission and Storage Encryption**: When you enable iCloud backup, data is encrypted by Apple during transmission and storage. You can review [Apple's Privacy Policy](https://www.apple.com/legal/privacy/) for details
-- **Backup Mechanism**: When you enable iCloud backup, your data is automatically backed up to your personal account through iCloud to prevent data loss
+- **開発者による個人コアデータの収集なし**: 開発者は、ユーザーの個人的なリマインダーデータを能動的に収集、保存、または分析することはありません。
+- **開発者によるデバイス情報の収集なし**: 開発者は、デバイスのモデル、OSのバージョン、またはデバイス識別子を収集することはありません。
+- **利用統計データの収集なし**: 開発者は、アプリの利用頻度や機能の使用状況を収集することはありません。
+- **クラッシュログのアップロードなし**: ユーザーのプライバシーを尊重するため、アプリ内にクラッシュレポート機能を統合しておらず、クラッシュログや診断情報が自動的にアップロードされることはありません。
+- **サードパーティ製広告SDKによるデータ収集**: アプリの無料運営および一部の機能（リワード動画の視聴など）を提供するため、アプリ内に **Google AdMob SDK** を統合しています。これにより、一部の非機密性のデバイス情報および広告インタラクションデータが自動的に収集される場合があります（詳細は「3. 情報の共有とサードパーティ製ツールの統合」をご参照ください）。
 
 ---
 
-## 5. Your Data Rights
+## 2. 情報の使用目的
 
-Under U.S. state privacy laws (such as California CCPA/CPRA, Virginia VCDPA, etc.), you have the following rights:
+ユーザーのデータは、デバイスのローカルにおいて以下の目的でのみ使用されます：
 
-| Right | Description |
-|-------|-------------|
-| **Right to Know** | You have the right to know what personal information we collect about you |
-| **Right to Access** | You have the right to access the personal information we hold about you |
-| **Right to Delete** | You have the right to request deletion of your personal information |
-| **Right to Correct** | You have the right to correct inaccurate personal information |
-| **Right to Opt-Out** | You have the right to opt out of the sale or sharing of your personal information |
-| **Right to Limit** | You have the right to limit the use of your sensitive personal information |
-| **Right to Non-Discrimination** | You have the right not to be discriminated against for exercising your privacy rights |
+### 1. コア機能の提供
+- リマインダーの保存・管理。
+- リマインダー時刻に達した際のローカル通知の送信、および緊急タスク用のシステムアラームの設定。
 
-**Special Note**: Since BeanDo does not collect any personal data, the exercise of the above rights (except the right to non-discrimination) does not involve specific data in practice. If you have any questions, please feel free to contact us.
+### 2. パーソナライズされたサービス
+- 一貫したユーザー体験を提供するための設定の保存。
+- ユーザーの好みに応じたアプリ画面の表示。
 
 ---
 
-## 6. United States Regional Specific Information
+## 3. 情報の共有とサードパーティ製ツールの統合
 
-Under U.S. state privacy laws (including California CCPA/CPRA, Virginia VCDPA, Colorado CPA, Connecticut CTDPA, and Utah UCPA), we specifically state:
+当アプリは、ユーザーの個人情報をサードパーティに販売、レンタル、または共有することはありません。ただし、アプリ内にサードパーティ製の広告SDKおよび購読検証サービスを統合しています：
 
-### Data Processing Methods
-- All processing of your data (including storage, management, and synchronization) is performed locally on your device
-- When you enable iCloud backup, related data is encrypted and backed up between your personal devices through Apple's iCloud service
-- We (the developer) cannot access any data stored on your device or in your personal iCloud account
-
-### Compliance Commitments
-- **No Sale of Personal Information**: We do not sell your personal information
-- **No Cross-State Data Transfer**: We do not transfer your data across state lines
-- **No Targeted Advertising**: We do not use your data for targeted advertising
-- **Respect for Privacy Choices**: We respect your privacy choices and rights
-
-### California Residents
-Under the California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA):
-- We do not collect personal information
-- We do not sell or share personal information
-- We do not use sensitive personal information
+- **コアデータのローカル処理**: すべてのリマインダー、タグ、設定データはローカルで処理され、サードパーティと共有されることはありません。
+- **iCloudのプライバシー**: iCloudバックアップを使用する場合、データはAppleのiCloudプライバシーポリシーに従い、ユーザー個人のiCloudアカウントにのみバックアップされます。
+- **サードパーティ製SDKの統合（Google AdMob SDK）**:
+  * **提供元**: Google Inc.
+  * **収集されるデータ**: デバイス識別子（広告識別子 IDFA、IDFVなど）、デバイスモデル、OSバージョン、ネットワークおよびおおよその位置情報（IPアドレス）、広告の表示・クリックなどのインタラクションデータ。
+  * **目的**: 広告の配信、広告頻度の制御、不正防止・セキュリティ監査、およびリワード動画視聴特典の付与。
+  * **プライバシーポリシー**: [Google のサービスを使用するサイトから収集した情報の Google による使用](https://policies.google.com/technologies/partner-sites)
+- **アプリ内課金と定期購読について（Apple StoreKit）**:
+  当アプリはPro定期購読機能を提供しています。すべての決済プロセスおよび購読状態の検証は、**StoreKit 2**を介してデバイスローカルまたはApple App Storeサーバーとの間で安全に行われます。開発者がユーザーのクレジットカード情報や請求情報を収集、保存、またはアクセスすることはありません。
 
 ---
 
-## 7. Permission Usage Instructions
+## 4. データのセキュリティ
 
-### 1. Notification Permission
-- **Purpose**: Send reminder notifications to ensure you receive important reminders in a timely manner
-- **Usage Scenario**: Send local push notifications when your set reminder items expire
-- **Control Method**: You can turn off notification permission at any time in your device's "Settings"
+当アプリは以下の方法でデータを保護します：
 
-### 2. Calendar Permission
-- **Purpose**: Identify Chinese legal holidays and adjusted work schedules for the "Workday Reminder" feature
-- **Usage Scenario**: When you create recurring reminders and select "Workdays Only", the app reads holiday information from the system calendar to accurately skip holidays and include makeup workdays
-- **Control Method**: You can turn off calendar permission at any time in your device's "Settings". After turning it off, the "Workday Reminder" feature will not be able to accurately identify holidays
-
-### 3. iCloud Backup Permission
-- **Purpose**: Back up your reminder data and app settings to enable cross-device synchronization and data recovery
-- **Usage Scenario**: When you use BeanDo on multiple Apple devices, data is automatically synchronized through iCloud
-- **Control Method**: You can turn off iCloud backup at any time in the app's settings
-
-### 4. Microphone Permission
-- **Purpose**: Used for voice input feature to help you quickly create reminders through voice
-- **Usage Scenario**: When you use the voice input feature, temporarily record your voice for recognition
-- **Control Method**: You can turn off microphone permission at any time in your device's "Settings"
-- **Data Note**: Voice data is only used for current recognition and will not be stored or uploaded
-
-### 5. Speech Recognition Permission
-- **Purpose**: Convert your voice to text for creating reminder items
-- **Usage Scenario**: When you use the voice input feature, recognize your voice content and convert it to text
-- **Control Method**: You can turn off speech recognition permission at any time in your device's "Settings"
-- **Technical Note**: Uses Apple's Speech Recognition API (SFSpeechRecognizer) for voice recognition. All voice processing is completed on-device by the iOS system (or through Apple's secure servers). We do not upload, store, or access your original voice data
+- **ローカルデータの保護**: すべてのデータはデバイス内にローカル保存され、iOSシステムのセキュリティ機能によって保護されます。
+- **iCloud転送および保存時の暗号化**: iCloudバックアップを有効にすると、データは転送時および保存時にAppleによって暗号化されます。詳細は [Appleのプライバシーポリシー](https://www.apple.com/legal/privacy/) をご参照ください。
+- **バックアップ機能**: iCloudバックアップを有効にすると、データ損失を防ぐため、データは自動的に個人のiCloudアカウントにバックアップされます。
 
 ---
 
-## 8. Privacy Policy Updates
+## 5. ユーザーの権利について
 
-We may update this Privacy Policy from time to time. When we update it, we will notify you in the App Store version update notes and update the effective date at the beginning of the policy.
+適用されるデータ保護法に基づき、ユーザーは以下の権利を有します：
 
-We recommend that you regularly review this Privacy Policy to understand our privacy protection practices.
+| 権利 | 説明 |
+|------|------|
+| **知る権利** | ユーザーは当アプリによる個人情報の処理状況について知る権利があります |
+| **決定する権利** | ユーザーは当アプリによる個人情報の処理を許可するかどうかを決定する権利があります |
+| **アクセスする権利** | ユーザーは当アプリが保有する自身の個人情報にアクセスする権利があります |
+| **訂正する権利** | ユーザーは不正確または不完全な個人情報を訂正する権利があります |
+| **消去（削除）する権利** | ユーザーは自身の個人情報の削除を請求する権利があります |
+| **ポータビリティの権利** | ユーザーはポータブルな形式で自身の個人情報を取得する権利があります |
+| **苦情を申し立てる権利** | ユーザーは個人情報の処理に関して監督官庁に苦情を申し立てる権利があります |
+
+**特別説明**：
+1. **アプリコアデータ（タスクとカレンダー）**：ユーザーのリマインダーやスケジュールデータはすべてローカルデバイスおよび個人のiCloudアカウントにのみ保存されているため、ユーザーはいつでもアプリ内で直接データの閲覧、編集、または削除を行うことで、アクセス権や削除権を行使できます。
+2. **広告データ**：Google AdMobによって処理されるデータについては、iOSの設定（「設定 -> プライバシーとセキュリティ -> トラッキング」でトラッキングをオフにする等）を変更するか、Google公式のプライバシー管理ツールを通じて権利（拒否権や削除権）を行使することができます。
 
 ---
 
-## 9. Contact Us
+## 6. 中国本土向けの特定事項
 
-If you have any questions or suggestions about this Privacy Policy, or wish to exercise your data rights, please contact us through the following methods:
+中華人民共和国個人情報保護法（PIPL）に基づき、以下を宣言します：
 
-- **Email**: yangcongpro@gmail.com
-- **X (formerly Twitter)**: @yangcong_pro
+### データの処理方法
+- 当アプリのすべてのデータ処理（保存、管理、同期を含む）はデバイスのローカルで行われます。
+- iCloudバックアップ機能を有効にした場合、関連データはAppleのiCloudサービスを介してユーザーの個人デバイス間で暗号化されてバックアップされます。
+- 開発者は、デバイスのローカルまたは個人のiCloudアカウントに保存されているいかなるデータにもアクセスできません。
 
-For app features, usage questions, or bug reports, please contact us through the same methods or leave feedback directly in the App Store.
+### コンプライアンスへの取り組み
+- PIPLおよび関連する法令を厳格に遵守します。
+- 個人情報の収集、保存、使用、加工、転送、提供、開示を行いません。
+- ユーザーの個人情報の権利と利益を保護します。
 
 ---
 
-**Thank you for trusting and using BeanDo!**
+## 7. デバイス権限の説明
+
+### 1. 通知権限
+- **用途**: リマインダー通知を送信し、タスクの期日に遅れないようにします
+- **使用シーン**: 設定した期日になった際にローカルプッシュ通知を送信します
+- **設定方法**: デバイスの「設定」からいつでも通知権限をオフにできます
+
+### 2. カレンダー権限
+- **用途**: 中国の祝日や振替出勤日を識別し、「平日リマインダー」機能に適用します
+- **使用シーン**: 「平日のみ」の繰り返し設定をした際、祝日を避けて補正された日にのみ通知を行うためにシステムカレンダーを読み取ります
+- **設定方法**: デバイスの「設定」からいつでもカレンダー権限をオフにできます
+
+### 3. iCloud バックアップ権限
+- **用途**: リマインダーデータとアプリ設定をバックアップし、複数デバイス間でデータを同期します
+- **使用シーン**: 複数のAppleデバイスでBeanDoを使用する際、iCloudを介して自動的に同期が行われます
+- **設定方法**: アプリ内の設定からいつでもiCloud同期をオフにできます
+
+### 4. マイク権限
+- **用途**: 音声入力機能により、音声で素早くタスクを作成します
+- **使用シーン**: 音声入力機能を使用する際、テキスト変換のために一時的に音声を録音します
+- **設定方法**: デバイスの「設定」からいつでもマイク権限をオフにできます
+- **データの取り扱い**: 音声データはテキスト変換の処理にのみ使用され、保存やアップロードは一切されません
+
+### 5. 音声認識権限
+- **用途**: 音声入力をテキストに変換してタスクを作成します
+- **使用シーン**: 音声入力の作動時に音声内容を識別します
+- **設定方法**: デバイスの「設定」からいつでも音声認識権限をオフにできます
+- **技術的説明**: AppleのSpeech Recognition APIを使用しています。すべての音声処理はデバイス上（またはAppleの安全なサーバー上）で行われ、開発者が未加工の音声データにアクセス、保存、またはアップロードすることはありません
+
+### 6. システムアラーム権限（AlarmKit）
+- **用途**: 指定した時刻にシステムアラームを設定し、重要度の高いタスクに対して確実な通知を行います
+- **使用シーン**: タスク設定で「強アラーム（システムアラーム）」を有効にした場合に呼び出されます
+- **設定方法**: デバイスの「設定」からいつでもアラーム権限を管理またはオフにできます
+
+### 7. トラッキング権限（App Tracking Transparency）
+- **用途**: 広告識別子（IDFA）を取得し、関連性の高いパーソナライズ広告を表示させ、不正防止の統計を行います
+- **使用シーン**: アプリの初回起動時または広告の読み込み時に許可を求めます
+- **設定方法**: デバイスの「設定 -> プライバシーとセキュリティ -> トラッキング」からいつでも設定を変更できます。拒否してもアプリのコア機能の利用に影響はありません
+
+---
+
+## 8. プライバシーポリシーの改定
+
+当アプリは、本プライバシーポリシーを随時更新することがあります。更新の際は、App Storeのアップデート内容で通知し、ポリシー冒頭の最終更新日を更新します。
+
+最新のプライバシー保護の取り組みを把握するため、定期的に本ポリシーを確認することをお勧めします。
+
+---
+
+## 9. お問い合わせ
+
+本プライバシーポリシーに関するご質問、ご提案、またはデータ権利の行使を希望される場合は、下記までご連絡ください：
+- **Eメール**: yangcongpro@gmail.com
+- **X (旧 Twitter)**: @yangcong_pro
+
+アプリの機能や不具合に関するフィードバックも、上記の連絡先またはApp Storeのレビューから直接ご連絡いただけます。
+
+---
+
+**BeanDoをご信頼いただき、ご利用いただきありがとうございます！**
