@@ -1,6 +1,6 @@
 # BeanDo Privacy Policy
 
-**Last Updated**: February 21, 2026
+**Last Updated**: July 10, 2026
 
 ---
 
@@ -30,10 +30,11 @@ BeanDo (hereinafter referred to as "we" or "the developer") takes user privacy p
 
 We commit to:
 
--  **No Personal Data Collection**: We do not actively collect, store, or analyze any of your personal data
--  **No Device Information Collection**: We do not collect your device model, operating system version, or device identifiers
--  **No Usage Data Statistics**: We do not collect your app usage frequency or feature usage
--  **No Crash Log Uploads**: Out of respect for user privacy, we have not integrated crash reporting features, so no crash logs or diagnostic information are automatically uploaded
+- **No Personal Data Collection by Developer**: We (the developer) do not actively collect, store, or analyze any of your personal reminder data.
+- **No Device Information Collection by Developer**: We do not collect your device model, operating system version, or device identifiers.
+- **No Usage Data Statistics**: We do not collect your app usage frequency or feature usage.
+- **No Crash Log Uploads**: Out of respect for user privacy, we have not integrated crash reporting features, so no crash logs or diagnostic information are automatically uploaded.
+- **Third-Party Advertising SDK Data Collection**: To sustain the free operation of the application and provide rewarded features (such as rewarded video viewing), the app integrates the **Google AdMob SDK**, which automatically collects certain non-sensitive device and ad-interaction data (detailed under Section 3 "Information Sharing and Third-Party Integrations").
 
 ---
 
@@ -43,7 +44,7 @@ We only use your data locally on your device for the following purposes:
 
 ### 1. Providing Core Features
 - Store and manage your reminders
-- Send local notifications when reminder times expire
+- Send local notifications and create alarms for emergency reminders when reminder times expire
 
 ### 2. Personalized Services
 - Save your settings to provide a consistent user experience
@@ -51,15 +52,19 @@ We only use your data locally on your device for the following purposes:
 
 ---
 
-## 3. Information Sharing
+## 3. Information Sharing and Third-Party Integrations
 
-**We do not share your information with third parties** for the following reasons:
+We will not sell, rent, or share your personal information with third parties. However, we integrate third-party advertising SDKs and subscription verification services in the app:
 
-- **No Data Collection**: We do not collect any user data that could be shared
-- **Local Processing**: All data processing is completed locally on your device
-- **iCloud Privacy**: If you use iCloud backup, data is only backed up to your personal iCloud account, following Apple's iCloud Privacy Policy
-
-We will not sell, rent, or share your personal information with third parties, nor will we use your information for advertising or marketing purposes.
+- **Core Data Localization**: All your reminders, tags, and settings data are processed locally and are never shared with any third parties.
+- **iCloud Privacy**: If you use iCloud backup, data is only backed up to your personal iCloud account, following Apple's iCloud Privacy Policy.
+- **Third-Party SDK Integration (Google AdMob SDK)**:
+  * **Provider**: Google Inc.
+  * **Data Collected**: Device identifiers (e.g. Advertising Identifier IDFA, IDFV), device model, OS version, network and general location information (IP address), ad interaction and impression data.
+  * **Purpose**: Serving ads, ad frequency capping, anti-fraud/security auditing, and rewarding completions (Rewarded video ads).
+  * **Privacy Link**: [Google Privacy & Terms](https://policies.google.com/technologies/partner-sites)
+- **In-App Purchases and Subscriptions (Apple StoreKit)**:
+  We offer premium Pro subscription features. All transaction processes and subscription status verifications are securely handled on-device or directly with Apple App Store servers via **StoreKit 2**. We do not collect, process, or store any of your credit card details or billing information.
 
 ---
 
@@ -69,98 +74,102 @@ We protect your data through the following methods:
 
 - **Local Data Security**: All data is stored locally on your device, protected by iOS system security mechanisms
 - **iCloud Transmission and Storage Encryption**: When you enable iCloud backup, data is encrypted by Apple during transmission and storage. You can review [Apple's Privacy Policy](https://www.apple.com/legal/privacy/) for details
-- **Backup Mechanism**: When you enable iCloud backup, your data is automatically backed up to your personal account through iCloud to prevent data loss
+- **Backup Mechanism**: When you enable iCloud backup, your data is automatically backed up to your personal iCloud account to prevent data loss.
 
 ---
 
 ## 5. Your Data Rights
 
-Under U.S. state privacy laws (such as California CCPA/CPRA, Virginia VCDPA, etc.), you have the following rights:
+Under applicable data protection laws, you enjoy the following rights:
 
 | Right | Description |
-|-------|-------------|
-| **Right to Know** | You have the right to know what personal information we collect about you |
+|------|------|
+| **Right to be Informed** | You have the right to know how we process your personal information |
+| **Right to Decide** | You have the right to decide whether to allow us to process your personal information |
 | **Right to Access** | You have the right to access the personal information we hold about you |
-| **Right to Delete** | You have the right to request deletion of your personal information |
-| **Right to Correct** | You have the right to correct inaccurate personal information |
-| **Right to Opt-Out** | You have the right to opt out of the sale or sharing of your personal information |
-| **Right to Limit** | You have the right to limit the use of your sensitive personal information |
-| **Right to Non-Discrimination** | You have the right not to be discriminated against for exercising your privacy rights |
+| **Right to Rectification** | You have the right to correct inaccurate or incomplete personal information |
+| **Right to Erasure** | You have the right to request the deletion of your personal information |
+| **Right to Portability** | You have the right to obtain your personal information in a portable format |
+| **Right to Complain** | You have the right to lodge a complaint with relevant authorities regarding our processing |
 
-**Special Note**: Since BeanDo does not collect any personal data, the exercise of the above rights (except the right to non-discrimination) does not involve specific data in practice. If you have any questions, please feel free to contact us.
+**Special Note**:
+1. **Core App Data (Reminders & Calendar)**: Since your core reminders and calendar data are stored entirely on your local device and personal iCloud, you can exercise your rights to access, modify, or delete this data directly within the app at any time.
+2. **Ad-Related Data**: For data processed by Google AdMob, you can exercise your rights by toggling system settings (such as turning off the "Allow Apps to Request to Track" option in iOS settings) or using Google's privacy control tools.
 
 ---
 
-## 6. United States Regional Specific Information
+## 6. Specific Provisions for Mainland China
 
-Under U.S. state privacy laws (including California CCPA/CPRA, Virginia VCDPA, Colorado CPA, Connecticut CTDPA, and Utah UCPA), we specifically state:
+In accordance with the Personal Information Protection Law of the People's Republic of China (PIPL), we declare:
 
 ### Data Processing Methods
-- All processing of your data (including storage, management, and synchronization) is performed locally on your device
-- When you enable iCloud backup, related data is encrypted and backed up between your personal devices through Apple's iCloud service
-- We (the developer) cannot access any data stored on your device or in your personal iCloud account
+- All processing of your data (including storage, management, and synchronization) is performed locally on your device.
+- When you enable the iCloud backup function, the relevant data is encrypted and backed up between your personal devices via Apple's iCloud service.
+- We (the developer) cannot access any data stored locally on your device or in your personal iCloud account.
 
-### Compliance Commitments
-- **No Sale of Personal Information**: We do not sell your personal information
-- **No Cross-State Data Transfer**: We do not transfer your data across state lines
-- **No Targeted Advertising**: We do not use your data for targeted advertising
-- **Respect for Privacy Choices**: We respect your privacy choices and rights
-
-### California Residents
-Under the California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA):
-- We do not collect personal information
-- We do not sell or share personal information
-- We do not use sensitive personal information
+### Compliance Commitment
+- Strictly abide by the PIPL and relevant laws and regulations.
+- Do not collect, store, use, process, transmit, provide, or disclose personal information.
+- Protect the personal information rights and interests of users.
 
 ---
 
-## 7. Permission Usage Instructions
+## 7. Device Permissions Explanation
 
 ### 1. Notification Permission
-- **Purpose**: Send reminder notifications to ensure you receive important reminders in a timely manner
-- **Usage Scenario**: Send local push notifications when your set reminder items expire
-- **Control Method**: You can turn off notification permission at any time in your device's "Settings"
+- **Purpose**: Send reminder alerts to ensure you receive important tasks on time
+- **Usage Scene**: Send local push notifications when set reminder times expire
+- **Control**: You can turn off notification permissions in device "Settings" at any time
 
 ### 2. Calendar Permission
-- **Purpose**: Identify Chinese legal holidays and adjusted work schedules for the "Workday Reminder" feature
-- **Usage Scenario**: When you create recurring reminders and select "Workdays Only", the app reads holiday information from the system calendar to accurately skip holidays and include makeup workdays
-- **Control Method**: You can turn off calendar permission at any time in your device's "Settings". After turning it off, the "Workday Reminder" feature will not be able to accurately identify holidays
+- **Purpose**: Identify public holidays and adjust workday reminders
+- **Usage Scene**: When you create repeated reminders and select "Workdays Only", the app reads holiday information from the system calendar to skip holidays and include makeup workdays
+- **Control**: You can turn off calendar permission in device "Settings" at any time
 
 ### 3. iCloud Backup Permission
-- **Purpose**: Back up your reminder data and app settings to enable cross-device synchronization and data recovery
-- **Usage Scenario**: When you use BeanDo on multiple Apple devices, data is automatically synchronized through iCloud
-- **Control Method**: You can turn off iCloud backup at any time in the app's settings
+- **Purpose**: Back up reminder data and app settings to synchronize data across multiple devices
+- **Usage Scene**: When you use BeanDo on multiple Apple devices, data synchronizes automatically via iCloud
+- **Control**: You can turn off iCloud backup in the app settings at any time
 
 ### 4. Microphone Permission
-- **Purpose**: Used for voice input feature to help you quickly create reminders through voice
-- **Usage Scenario**: When you use the voice input feature, temporarily record your voice for recognition
-- **Control Method**: You can turn off microphone permission at any time in your device's "Settings"
-- **Data Note**: Voice data is only used for current recognition and will not be stored or uploaded
+- **Purpose**: Used for voice dictation features to quickly create reminders by voice
+- **Usage Scene**: Record voice input temporarily to convert speech to text
+- **Control**: You can turn off microphone permission in device "Settings" at any time
+- **Data Note**: Voice data is only processed for dictation during the action and is never stored or uploaded
 
 ### 5. Speech Recognition Permission
-- **Purpose**: Convert your voice to text for creating reminder items
-- **Usage Scenario**: When you use the voice input feature, recognize your voice content and convert it to text
-- **Control Method**: You can turn off speech recognition permission at any time in your device's "Settings"
-- **Technical Note**: Uses Apple's Speech Recognition API (SFSpeechRecognizer) for voice recognition. All voice processing is completed on-device by the iOS system (or through Apple's secure servers). We do not upload, store, or access your original voice data
+- **Purpose**: Convert voice inputs to text to generate reminder entries
+- **Usage Scene**: Recognize speech content when voice input is active
+- **Control**: You can turn off speech recognition permission in device "Settings" at any time
+- **Technical Note**: Powered by Apple's Speech Recognition API. All voice processing is handled on-device (or via Apple's secure servers); we never upload, store, or access your raw audio data
+
+### 6. System Alarms Permission (AlarmKit)
+- **Purpose**: Set alarm clocks for high-priority items to guarantee loud and timely alerts
+- **Usage Scene**: Triggered when you enable "Strong Reminder (System Alarm)" for a specific reminder
+- **Control**: You can manage and turn off system alarm permissions in device "Settings" at any time
+
+### 7. Tracking Permission (App Tracking Transparency)
+- **Purpose**: Obtain the Advertising Identifier (IDFA) to show ads relevant to you and count ad performance
+- **Usage Scene**: Request permission on first launch or when loading ads
+- **Control**: You can disable tracking for this app in device "Settings -> Privacy & Security -> Tracking". Disabling tracking does not affect the core functions of the app
 
 ---
 
-## 8. Privacy Policy Updates
+## 8. Updates to this Privacy Policy
 
-We may update this Privacy Policy from time to time. When we update it, we will notify you in the App Store version update notes and update the effective date at the beginning of the policy.
+We may update this Privacy Policy from time to time. When we make updates, we will notify you in the App Store version update notes and update the effective date at the beginning of the policy.
 
-We recommend that you regularly review this Privacy Policy to understand our privacy protection practices.
+We recommend checking this Privacy Policy periodically to stay informed about our privacy practices.
 
 ---
 
 ## 9. Contact Us
 
-If you have any questions or suggestions about this Privacy Policy, or wish to exercise your data rights, please contact us through the following methods:
-
+If you have any questions, suggestions, or wish to exercise your data rights regarding this Privacy Policy, please contact us at:
 - **Email**: yangcongpro@gmail.com
 - **X (formerly Twitter)**: @yangcong_pro
 
-For app features, usage questions, or bug reports, please contact us through the same methods or leave feedback directly in the App Store.
+If you have feedback on app features, usage issues, or bug reports, please contact us through the same channels or comment directly on the App Store.
 
 ---
 
